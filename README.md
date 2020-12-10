@@ -1,4 +1,7 @@
 # Tableau Challenge - Citi Bike Analytics
+
+![Dashboard Screenshot](dashboard_screenshot.jpg)
+
 ## Data Source
 Monthly CSV files (January - July 2020) from [Citi Bike NYC Data webpage](https://www.citibikenyc.com/system-data).
 
